@@ -1,1 +1,1 @@
-# Java-Automatic-Word-Organizer-with-Dictornary-File
+# Java Automatic Word Organizer with Dictiornary File
